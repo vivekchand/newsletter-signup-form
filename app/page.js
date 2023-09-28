@@ -6,11 +6,11 @@ import Image from "next/image";
 import { useState } from "react";
 
 const data = [
-  "Frequency: Daily",
+  "Daily Inspiration",
 
-  "Benefits: Daily inspiration, deeper cultural connection, and a path to spiritual enlightenment.",
+  "Deeper Cultural Connection",
 
-  "And much more",
+  "Path to Spiritual Enlightenment",
 ];
 
 export default function Home() {
@@ -48,7 +48,7 @@ export default function Home() {
               />
             </div>
             <div className="pt-16 px-6 lg:px-0 space-y-6 flex flex-col">
-              <h1 className="font-bold text-4xl">🌞 "Journey to Wisdom 📖"</h1>
+              <h1 className="font-bold text-4xl">🌞 Journey to Wisdom 📖</h1>
               <p className="max-w-sm font-light">
               Welcome to a journey of spiritual growth! Subscribe to our newsletter to receive daily Bhagavad Gita verses, ancient wisdom from Vedas, Upanishads, and more, directly in your inbox.
               </p>
