@@ -104,7 +104,7 @@ export default function EmailForm({ onEmailSent, emailProp }) {
           handleSubmit();
         }}
       >
-        Subscribe to monthly newsletter
+        Subscribe now
       </button>
     </div>
   );
