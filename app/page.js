@@ -6,9 +6,9 @@ import Image from "next/image";
 import { useState } from "react";
 
 const data = [
-  "Product discovery and building what matters",
+  "Frequency: Daily",
 
-  "Measuring to ensure updates are a success",
+  "Benefits: Daily inspiration, deeper cultural connection, and a path to spiritual enlightenment.",
 
   "And much more",
 ];
@@ -48,9 +48,9 @@ export default function Home() {
               />
             </div>
             <div className="pt-16 px-6 lg:px-0 space-y-6 flex flex-col">
-              <h1 className="font-bold text-4xl">Stay updated!</h1>
+              <h1 className="font-bold text-4xl">🌞 "Journey to Wisdom 📖"</h1>
               <p className="max-w-sm font-light">
-                Join 60,000+ product managers receiving monthly updates on:
+              Welcome to a journey of spiritual growth! Subscribe to our newsletter to receive daily Bhagavad Gita verses, ancient wisdom from Vedas, Upanishads, and more, directly in your inbox.
               </p>
 
               <div>
